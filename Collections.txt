@@ -1,0 +1,16 @@
+Estruturas indexáveis
+
+Array (estático)
+ArrayList -> não é tipada
+List<T> -> melhor na busca
+LinkedList<T> melhor na inserção
+
+Valores únicos
+Hashset
+SortedSet -> ordenação
+
+Par chave-valor
+
+HashTable -> não tipado
+SortedList -> ord.chave
+Dictionary<Tipado>

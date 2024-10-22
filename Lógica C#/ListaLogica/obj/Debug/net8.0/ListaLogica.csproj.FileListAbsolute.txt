@@ -1,0 +1,14 @@
+C:\Back-End\Lógica C#\ListaLogica\bin\Debug\net8.0\ListaLogica.exe
+C:\Back-End\Lógica C#\ListaLogica\bin\Debug\net8.0\ListaLogica.deps.json
+C:\Back-End\Lógica C#\ListaLogica\bin\Debug\net8.0\ListaLogica.runtimeconfig.json
+C:\Back-End\Lógica C#\ListaLogica\bin\Debug\net8.0\ListaLogica.dll
+C:\Back-End\Lógica C#\ListaLogica\bin\Debug\net8.0\ListaLogica.pdb
+C:\Back-End\Lógica C#\ListaLogica\obj\Debug\net8.0\ListaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Back-End\Lógica C#\ListaLogica\obj\Debug\net8.0\ListaLogica.AssemblyInfoInputs.cache
+C:\Back-End\Lógica C#\ListaLogica\obj\Debug\net8.0\ListaLogica.AssemblyInfo.cs
+C:\Back-End\Lógica C#\ListaLogica\obj\Debug\net8.0\ListaLogica.csproj.CoreCompileInputs.cache
+C:\Back-End\Lógica C#\ListaLogica\obj\Debug\net8.0\ListaLogica.dll
+C:\Back-End\Lógica C#\ListaLogica\obj\Debug\net8.0\refint\ListaLogica.dll
+C:\Back-End\Lógica C#\ListaLogica\obj\Debug\net8.0\ListaLogica.pdb
+C:\Back-End\Lógica C#\ListaLogica\obj\Debug\net8.0\ListaLogica.genruntimeconfig.cache
+C:\Back-End\Lógica C#\ListaLogica\obj\Debug\net8.0\ref\ListaLogica.dll

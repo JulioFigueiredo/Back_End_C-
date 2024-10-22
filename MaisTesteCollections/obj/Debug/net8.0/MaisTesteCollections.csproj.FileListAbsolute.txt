@@ -1,0 +1,14 @@
+C:\Back-End\MaisTesteCollections\bin\Debug\net8.0\MaisTesteCollections.exe
+C:\Back-End\MaisTesteCollections\bin\Debug\net8.0\MaisTesteCollections.deps.json
+C:\Back-End\MaisTesteCollections\bin\Debug\net8.0\MaisTesteCollections.runtimeconfig.json
+C:\Back-End\MaisTesteCollections\bin\Debug\net8.0\MaisTesteCollections.dll
+C:\Back-End\MaisTesteCollections\bin\Debug\net8.0\MaisTesteCollections.pdb
+C:\Back-End\MaisTesteCollections\obj\Debug\net8.0\MaisTesteCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Back-End\MaisTesteCollections\obj\Debug\net8.0\MaisTesteCollections.AssemblyInfoInputs.cache
+C:\Back-End\MaisTesteCollections\obj\Debug\net8.0\MaisTesteCollections.AssemblyInfo.cs
+C:\Back-End\MaisTesteCollections\obj\Debug\net8.0\MaisTesteCollections.csproj.CoreCompileInputs.cache
+C:\Back-End\MaisTesteCollections\obj\Debug\net8.0\MaisTesteCollections.dll
+C:\Back-End\MaisTesteCollections\obj\Debug\net8.0\refint\MaisTesteCollections.dll
+C:\Back-End\MaisTesteCollections\obj\Debug\net8.0\MaisTesteCollections.pdb
+C:\Back-End\MaisTesteCollections\obj\Debug\net8.0\MaisTesteCollections.genruntimeconfig.cache
+C:\Back-End\MaisTesteCollections\obj\Debug\net8.0\ref\MaisTesteCollections.dll

@@ -1,0 +1,14 @@
+C:\Back-End\Exercicios_Collections\collections\bin\Debug\net8.0\collections.exe
+C:\Back-End\Exercicios_Collections\collections\bin\Debug\net8.0\collections.deps.json
+C:\Back-End\Exercicios_Collections\collections\bin\Debug\net8.0\collections.runtimeconfig.json
+C:\Back-End\Exercicios_Collections\collections\bin\Debug\net8.0\collections.dll
+C:\Back-End\Exercicios_Collections\collections\bin\Debug\net8.0\collections.pdb
+C:\Back-End\Exercicios_Collections\collections\obj\Debug\net8.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Back-End\Exercicios_Collections\collections\obj\Debug\net8.0\collections.AssemblyInfoInputs.cache
+C:\Back-End\Exercicios_Collections\collections\obj\Debug\net8.0\collections.AssemblyInfo.cs
+C:\Back-End\Exercicios_Collections\collections\obj\Debug\net8.0\collections.csproj.CoreCompileInputs.cache
+C:\Back-End\Exercicios_Collections\collections\obj\Debug\net8.0\collections.dll
+C:\Back-End\Exercicios_Collections\collections\obj\Debug\net8.0\refint\collections.dll
+C:\Back-End\Exercicios_Collections\collections\obj\Debug\net8.0\collections.pdb
+C:\Back-End\Exercicios_Collections\collections\obj\Debug\net8.0\collections.genruntimeconfig.cache
+C:\Back-End\Exercicios_Collections\collections\obj\Debug\net8.0\ref\collections.dll
