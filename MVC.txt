@@ -1,0 +1,17 @@
+Model - O modelo interage com o banco de dados fazendo inserções ou consultas de dados e em seguida devolve uma resposta à requisição do controlador
+
+View - O usuário interage com a View. As solicitação realizas pelo usuário na View são roteadas para um controlador. 
+
+Controller - O controlador escolhe a View a ser exibida para o usuário e fornece-a com os dados do modelo solicitados.
+O controlador é responsável por requisitar dados ou comportamentos dos modelos para atender as ações do usuário ou recuperar resultados de consultas. 
+
+
+Para rodar com .NET
+
+dotnet new mvc -o Cafeteria
+
+cd nomeDaPasta
+
+dotnet run
+
+dotnet watch run -> atualiza em momento real
