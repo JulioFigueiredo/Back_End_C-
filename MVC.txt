@@ -10,6 +10,8 @@ Para rodar com .NET
 
 dotnet new mvc -o Cafeteria
 
+Para conectar com banco de dados -> Pasta Models
+
 cd nomeDaPasta
 
 dotnet run
