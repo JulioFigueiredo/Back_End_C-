@@ -4,10 +4,10 @@
     ViewData["Title"] = "Stock Manager";
 }
 
-<h1>Stock Manager - Cafeteria</h1>
+<h1 class="page-title">Stock Manager - Cafeteria</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="btn-create">Create New</a>
 </p>
 
 <form asp-controller="Products" asp-action="Index" method="get">
@@ -55,9 +55,9 @@
                 @Html.DisplayFor(modelItem => item.Price)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="edit-link">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id" class="details-link">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id" class="delete-link">Delete</a>
             </td>
         </tr>
 }

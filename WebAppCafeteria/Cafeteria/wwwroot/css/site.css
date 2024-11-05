@@ -20,3 +20,59 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.edit-link {
+  background-color: #4CAF50;
+  color: white;
+  padding: 5px 10px;
+  text-decoration: none;
+  border-radius: 3px;
+}
+
+.details-link {
+  background-color: #2196F3; /* Azul */
+  color: white;
+  padding: 5px 10px;
+  text-decoration: none;
+  border-radius: 3px;
+}
+
+.delete-link {
+  background-color: #f44336; /* Vermelho */
+  color: white;
+  padding: 5px 10px;
+  text-decoration: none;
+  border-radius: 3px;
+}
+
+a {
+  margin-right: 10px;
+}
+
+.page-title {
+  font-size: 2.5em; /* Tamanho elegante, mas sem exageros */
+  color: #2c3e50; /* Azul escuro para um visual moderno */
+  text-align: center; /* Centraliza o título */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Fonte limpa e legível */
+  margin-bottom: 20px; /* Espaçamento abaixo do título */
+  border-bottom: 2px solid #3498db; /* Borda inferior sutil */
+  padding-bottom: 10px; /* Espaçamento para a borda */
+  letter-spacing: 1px; /* Pequeno espaçamento entre letras */
+  font-weight: 600; /* Deixa o título com um peso intermediário */
+}
+
+.btn-create {
+  display: inline-block; /* Faz o link se comportar como um botão */
+  background-color: #28a745; /* Cor de fundo verde */
+  color: white; /* Cor do texto branca */
+  padding: 10px 20px; /* Espaçamento interno */
+  text-decoration: none; /* Remove o sublinhado padrão dos links */
+  border-radius: 5px; /* Deixa as bordas arredondadas */
+  font-size: 16px; /* Tamanho da fonte adequado */
+  font-weight: 600; /* Negrito para destacar o texto */
+  transition: background-color 0.3s ease; /* Animação suave na cor de fundo */
+}
+
+.btn-create:hover {
+  background-color: #218838; /* Cor mais escura quando o mouse passa sobre o botão */
+}
